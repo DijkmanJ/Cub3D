@@ -24,7 +24,7 @@ make
 
 Run the game by executing:
 ```sh
-./cub3d map.cub
+./cub3d map/map.cub
 ```
 
 ## Controls
